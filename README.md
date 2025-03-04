@@ -1,21 +1,37 @@
-**📊 Amazon Prime Video Shows Visualization**
-This Power BI dashboard provides an interactive overview of Amazon Prime Video shows from 1920 to 2021. The dashboard includes various insights into the platform's content distribution based on different categories.
+# Amazon Prime Show Visualization Dashboard
 
-**🔹 Key Insights & Features**
-Total Shows – The dataset contains 9,685 titles, including both movies and TV shows.
-*Time Range – The shows span from 1920 to 2021.
-*Rating Distribution – A bar chart displays the total number of shows by their age ratings (e.g., 13+, 16+, PG-13).
-*Genre Distribution – A breakdown of the most popular genres, with Drama, Action, and Comedy being the top three.
-*Movies vs. TV Shows – A donut chart shows the proportion of TV shows (80.82%) and movies (19.18%) in the dataset.
-*Geographical Distribution – A map visualization highlights the count of shows available in different countries.
-*Release Year Trend – A line graph tracks the number of shows released each year, showing trends over time.
+![Amazon Prime Show Visualization](Amazon%20Prime%20show%20visualization.png)
 
-**🔹 Tools & Technologies Used**
-*Power BI – For data visualization and interactive dashboard creation.
-*Excel/MySQL – For data preprocessing and cleaning.
-*DAX (Power BI) – For calculated measures and dynamic data representation.
+## Overview
+This dashboard provides a detailed visualization of Amazon Prime Video shows, including TV shows and movies. It presents insights on ratings, genres, release years, country distribution, and the total number of shows available on the platform.
 
-**📌 How to Use**
-*Open the Power BI file (.pbix) to explore interactive insights.
-*Hover over different charts to get detailed breakdowns.
-*Use filters based on genres, years, or countries to refine the data view.
+## Features
+- **Total Show Count:** Displays the total number of shows (9,685).
+- **Ratings Distribution:** Visualizes the number of shows categorized by different ratings (e.g., 13+, 16+, R, PG-13).
+- **Genres Breakdown:** Shows the distribution of genres like Drama, Action, Comedy, etc.
+- **Country-Wise Distribution:** Highlights the availability of shows across different countries.
+- **Movies vs. TV Shows:** Displays a breakdown of content type (Movies: 80.82%, TV Shows: 19.18%).
+- **Release Year Trend:** Shows the number of releases over time, highlighting significant growth after 2000.
+
+## Tools Used
+- **Microsoft Power BI** for data visualization.
+- **Python/Pandas** for data processing (if applicable).
+- **Microsoft Bing Maps** for geographical visualization.
+
+## How to Use
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/your-repo-name.git
+   ```
+2. Open the dashboard file in Power BI (if applicable) to interact with the data.
+3. Explore different visualizations to gain insights into Amazon Prime Video content.
+
+## Image Source
+The image used in this repository is stored as **Amazon Prime show visualization.png**.
+
+## License
+This project is for educational and analytical purposes. Feel free to use or modify it as needed.
+
+---
+For any queries, feel free to reach out!
+
