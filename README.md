@@ -15,7 +15,6 @@ This dashboard provides a detailed visualization of Amazon Prime Video shows, in
 
 ## Tools Used
 - **Microsoft Power BI** for data visualization.
-- **Python/Pandas** for data processing (if applicable).
 - **Microsoft Bing Maps** for geographical visualization.
 
 ## How to Use
