@@ -10,7 +10,7 @@ This dashboard provides a detailed visualization of Amazon Prime Video shows, in
 - **Ratings Distribution:** Visualizes the number of shows categorized by different ratings (e.g., 13+, 16+, R, PG-13).
 - **Genres Breakdown:** Shows the distribution of genres like Drama, Action, Comedy, etc.
 - **Country-Wise Distribution:** Highlights the availability of shows across different countries.
-- **Movies vs. TV Shows:** Displays a breakdown of content type (Movies: 80.82%, TV Shows: 19.18%).
+- **Movies vs. TV Shows:** Displays a breakdown of content type (Movies: 80.82%, TV Shows: 19.18%)
 - **Release Year Trend:** Shows the number of releases over time, highlighting significant growth after 2000.
 
 ## Tools Used
