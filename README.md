@@ -1,4 +1,4 @@
-# Amazon Prime Show Visualization Dashboard
+# Amazon Prime Show Visualization Dashboard.
 
 ![Amazon Prime Show Visualization](Amazon%20Prime%20show%20visualization.png)
 
